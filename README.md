@@ -1,10 +1,10 @@
 # firebase_auth_problem_reproduction
 
-A new Flutter project.
+This a testable version or a demo of a login screen using [firebase_auth](https://github.com/FirebaseExtended/flutterfire#firebase_auth) version 18.x+ 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+make sure you have the firebase auth version 18 or plus, and [firebase_core](https://github.com/FirebaseExtended/flutterfire#firebase_core) version 5 or higher.
 
 A few resources to get you started if this is your first Flutter project:
 
